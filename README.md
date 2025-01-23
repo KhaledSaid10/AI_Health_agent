@@ -51,7 +51,7 @@ This project is an **AI-Powered Health Assistant Detection System** designed to 
 ## Screenshots 📸
 
 ### Home Page  
-![Home Page](C:\Users\khale\Downloads\WhatsApp Image 2025-01-23 at 10.23.08_f00a0aab.jpg)
+![Home Page]("C:\Users\khale\OneDrive\المستندات\GitHub\AI_Health_agent\pic1.jpg")
 
 ### Anemia Checker 
 ![Admin Panel](https://github.com/user-attachments/assets/f90896da-6b1a-4449-b5f4-6ed4aeaf6d53)
